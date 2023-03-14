@@ -1,4 +1,4 @@
-suma = (op1, op2) => {return op1 + op2};
+suma = (op1, op2, op3) => {return op1 + op2 + op3};
 resta = (op1, op2) => {return op1 - op2};
 multiplicacion = (op1, op2) => {return op1 * op2};
 division = (op1, op2) => {return op1 / op2};
