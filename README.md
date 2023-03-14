@@ -1,2 +1,2 @@
 # fundamentos
-dsnfñldanfgljjhlkhl
+Lo que ocurre al subir fusionar las dos ramas al proyecto principal (main) es que entra en conflicto porque se modifica lo mismo en ambas ramas, con lo que el que hace el git merge tiene que decidir que cambios aceptar.
